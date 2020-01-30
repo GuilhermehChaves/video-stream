@@ -1,0 +1,16 @@
+{
+  "name": "rtmpserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flv": "0.0.1",
+    "flv.js": "^1.5.0",
+    "node-media-server": "^2.1.4"
+  }
+}
